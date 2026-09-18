@@ -4,6 +4,8 @@
 
 [![App Store](https://img.shields.io/badge/App%20Store-下载-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/cn/app/id1566332943)
 
+🌐 官网：https://zylcold.github.io/travelsmap-site/
+
 本仓库是照片回顾的公开项目主页：**产品说明、版本更新记录（release notes）与隐私政策**在这里维护。App 源码为私有仓库，不在此发布。
 
 ## 是什么
