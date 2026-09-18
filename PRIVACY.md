@@ -60,4 +60,4 @@
 ## 8. 联系我们
 
 - 电子邮件：support@yunlongzhu.com
-- 或在本仓库提交 [Issue](https://github.com/zylcold/travelsmap/issues)
+- 或在本仓库提交 [Issue](https://github.com/zylcold/travelsmap-site/issues)

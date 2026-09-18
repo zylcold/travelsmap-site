@@ -20,7 +20,7 @@
 
 ## 支持
 
-- 使用问题、Bug、功能建议：请开 [Issue](https://github.com/zylcold/travelsmap/issues)
+- 使用问题、Bug、功能建议：请开 [Issue](https://github.com/zylcold/travelsmap-site/issues)
 - 邮件：support@yunlongzhu.com
 
 ## 隐私
